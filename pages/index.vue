@@ -1,9 +1,7 @@
 <template>
-  <div>
-    Hello Nuxt!
-  </div>
+  <v-card> Hello Nuxt! </v-card>
 </template>
 
 <script>
-export default {}
+export default {};
 </script>
